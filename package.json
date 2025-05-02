@@ -18,7 +18,10 @@
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^22.0.0",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.4",
-    "cypress": "^14.0.0",
     "oracledb": "^6.6.0"
+  },
+  "devDependencies": {
+    "cypress": "^14.3.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
   }
 }
